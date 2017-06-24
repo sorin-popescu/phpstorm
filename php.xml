@@ -1,11 +1,4 @@
 <application>
-  <component name="PhpInterpreters">
-    <interpreters>
-      <interpreter home="vagrant:///Users/sorin.popescu/code/olympus-dev/machines/web_olympus_app/usr/bin/php" id="d7b57c37-7ff8-4e6a-a141-9620adabb2c3" name="Remote PHP 7.1" debugger_id="php.debugger.XDebug" debugger_extension="/usr/lib/php/20160303/xdebug.so">
-        <remote_data VAGRANT_FOLDER="$USER_HOME$/code/olympus-dev/machines/web_olympus_app" INTERPRETER_PATH="/usr/bin/php" HELPERS_PATH="/home/vagrant/.phpstorm_helpers" INITIALIZED="false" VALID="true" />
-      </interpreter>
-    </interpreters>
-  </component>
   <component name="PhpInterpretersPhpInfoCache">
     <phpInfoCache>
       <interpreter name="Remote PHP 7.1">
