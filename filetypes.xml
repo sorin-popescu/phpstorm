@@ -1,6 +1,7 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
+      <mapping pattern="inprogress" type="PLAIN_TEXT" />
       <mapping pattern=".vagrantuser" type="PLAIN_TEXT" />
       <mapping pattern=".editorconfig" type="PLAIN_TEXT" />
       <mapping pattern="console" type="PLAIN_TEXT" />
