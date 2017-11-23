@@ -7,6 +7,7 @@
       <mapping pattern="Makefile" type="PLAIN_TEXT" />
       <mapping pattern="world_map" type="PLAIN_TEXT" />
       <mapping pattern=".php_cs" type="PLAIN_TEXT" />
+      <mapping ext="cnf" type="PLAIN_TEXT" />
       <mapping ext="csv" type="PLAIN_TEXT" />
       <mapping ext="production" type="PLAIN_TEXT" />
       <mapping ext="cfg" type="PLAIN_TEXT" />
