@@ -8,9 +8,9 @@
         <entry key="Code Completion Basics" value="PASSED" />
         <entry key="Find Actions" value="PASSED" />
         <entry key="Live Templates" value="PASSED" />
-        <entry key="String Conversions" value="NOT_PASSED" />
-        <entry key="php.CodeGolf.ExtractVariable" value="NOT_PASSED" />
-        <entry key="php.CodeGolf.GenerateConstructorFromFields" value="NOT_PASSED" />
+        <entry key="String Conversions" value="PASSED" />
+        <entry key="php.CodeGolf.ExtractVariable" value="PASSED" />
+        <entry key="php.CodeGolf.GenerateConstructorFromFields" value="PASSED" />
         <entry key="php.CodeGolf.ImplementMissingMethodsWithAltEnter" value="PASSED" />
       </map>
     </option>
