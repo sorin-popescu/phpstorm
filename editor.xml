@@ -1,5 +1,10 @@
 <application>
-  <component name="SqlEditorOptions">
-    <option name="qualificationType" value="On collisions" />
+  <component name="InlayHintsSettings">
+    <option name="disabledLanguages">
+      <set>
+        <option value="PHP" />
+      </set>
+    </option>
+    <option name="lastViewedProviderKeyId" value="parameter.hints.old" />
   </component>
 </application>
