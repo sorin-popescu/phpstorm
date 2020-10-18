@@ -100,5 +100,20 @@
     <driver id="vertica">
       <option name="auto-sync" value="true" />
     </driver>
+    <driver id="c6e13b4c-7ebb-4656-bbd1-1133ae6bd387" name="nps driver" dialect="SQLite" driver-class="org.sqlite.JDBC" icon="AllIcons.Providers.Sqlite">
+      <url-template name="default" template="jdbc:sqlite:!(:memory:){file::identifier.sqlite}?" />
+      <url-template name="In-memory" template="jdbc:sqlite::memory:" />
+      <artifact id="Xerial SQLiteJDBC" name="Xerial SQLiteJDBC" use="true" version="3.31.1" />
+      <option name="auto-sync" value="true" />
+      <option name="auto-commit" value="true" />
+      <option name="send-app-info" value="true" />
+      <option name="schema-control" value="AUTOMATIC" />
+      <option name="format-sources-on-sync" value="true" />
+      <option name="source-loading" value="USER_SOURCES" />
+      <property name="enable_load_extension" value="true" />
+      <library>
+        <url>file://$APPLICATION_CONFIG_DIR$/jdbc-drivers/Xerial SQLiteJDBC/3.25.1/sqlite-jdbc-3.25.1.jar</url>
+      </library>
+    </driver>
   </component>
 </application>
