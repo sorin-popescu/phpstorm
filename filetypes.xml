@@ -4,6 +4,7 @@
       <mapping pattern="test" type="PLAIN_TEXT" />
       <mapping pattern="result" type="PLAIN_TEXT" />
       <mapping pattern="gosu-entrypoint" type="PLAIN_TEXT" />
+      <mapping pattern=".dockerignore" type="PLAIN_TEXT" />
       <mapping pattern=".php_cs.dist" type="PLAIN_TEXT" />
       <mapping ext="gz" type="PLAIN_TEXT" />
       <mapping ext="j2" type="PLAIN_TEXT" />
