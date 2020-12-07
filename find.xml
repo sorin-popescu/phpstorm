@@ -14,7 +14,7 @@
     <mask>*.xml</mask>
     <mask>*.twig</mask>
     <mask>*.feature</mask>
-    <mask>*.yml</mask>
     <mask>*.php</mask>
+    <mask>*.yml</mask>
   </component>
 </application>
