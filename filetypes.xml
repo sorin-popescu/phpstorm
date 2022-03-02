@@ -1,6 +1,7 @@
 <application>
   <component name="FileTypeManager" version="18">
     <extensionMap>
+      <mapping pattern="local-php-security-checker" type="AUTO_DETECTED" />
       <mapping pattern="LuckyController.php" type="AUTO_DETECTED" />
       <mapping pattern="result" type="PLAIN_TEXT" />
       <mapping pattern=".php_cs.dist" type="PLAIN_TEXT" />
